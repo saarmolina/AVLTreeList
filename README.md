@@ -10,16 +10,6 @@ This project is a Python implementation of an AVL Tree List, showcasing advanced
 
 ## Key Methods
 
-### AVLNode
-
-- `get_left()`, `get_right()`, `get_parent()`: Retrieve child and parent nodes.
-- `get_key()`, `get_value()`, `get_height()`, `get_bf()`: Get node properties.
-- `set_left()`, `set_right()`, `set_parent()`: Set child and parent nodes.
-- `set_key()`, `set_value()`, `set_height()`: Set node properties.
-- `is_real_node()`: Check if the node is not virtual.
-
-### AVLTree
-
 - `insert(key, val)`: Insert a new key-value pair into the tree.
 - `delete(node)`: Remove a node from the tree.
 - `search(key)`: Find a node with the given key.
