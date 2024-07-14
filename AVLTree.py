@@ -1,12 +1,5 @@
 #username - saarmolina
 
-#id1      - 206968216
-#name1    - Saar Molina
-
-#id2      - 318672680
-#name2    - Inbar Yakov 
-
-
 """A class represnting a node in an AVL tree"""
 
 class AVLNode(object):
